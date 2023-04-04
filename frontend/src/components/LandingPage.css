@@ -1,0 +1,22 @@
+.LandingPagevideos {
+    flex: 1;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+
+
+
+.LandingPagevideos__videos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 8%;
+}
+
+.LandingPagevideos__videos > * {
+    margin-left: 5%;
+    /* margin-right: 3%; */
+    
+}
+.none{
+  display: "none" ;
+}

@@ -1,0 +1,38 @@
+.VideoPage{
+    display: flex;
+    padding: 6%;
+    border-bottom:solid;
+    height:750px;
+   
+    
+}
+
+.VideoPageFrmae{
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.Videodetails{
+    
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+   
+}
+.Videodetails2{
+    display: flex;
+    align-items: center;
+}
+.Videodetails2> h5 {
+    color: aliceblue;
+    margin-bottom: 5px;
+    padding: 0.5%;
+    
+}
+.Videodetails> h2{
+    color: aliceblue;
+    margin-bottom: 5px;
+    
+}
+

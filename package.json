@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@polymer/iron-selector": "^3.0.1",
+		"react-router": "5.2.1"
+	}
+}
